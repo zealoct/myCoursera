@@ -1,4 +1,4 @@
-CourseraStanfordAlgo
+Coursera
 ====================
 
-Programming problem of the course Algorithms: Design and Analysis on Coursera
+some code of courses on Coursera
